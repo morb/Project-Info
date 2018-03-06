@@ -66,3 +66,11 @@ $2359.00
 Base Total:	$5519.20				
 Mail-in Rebates:	-$5.00				
 Total:	$5514.20	
+
+
+
+
+Hello Client 1.
+For this price, I can build you the most high-end computers that you could ever imagine.
+Not only will they look amazing, But they will also 
+
